@@ -1,50 +1,109 @@
-# Welcome to your Expo app 👋
+<div align="center">
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+  <!-- Banner Animasi -->
 
-## Get started
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=ZenKeep%20Notes&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%">
 
-1. Install dependencies
+  <!-- Logo/Icon Aplikasi -->
 
-   ```bash
-   npm install
-   ```
+  <br />
+  <img src="https://img.icons8.com/color/144/google-keep.png" width="100" height="100" />
 
-2. Start the app
+  <h1>Leo - Notes App</h1>
 
-   ```bash
-   npx expo start
-   ```
+  <p align="center">
+    <strong>Aplikasi Manajemen Catatan Ultra-Premium dengan Pengalaman Google Keep yang Sempurna.</strong><br />
+    Dibangun menggunakan ekosistem modern untuk kecepatan, estetika, dan fungsionalitas tanpa batas.
+  </p>
 
-In the output, you'll find options to open the app in a
+  <!-- Badges -->
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+  <p align="center">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" />
+  </p>
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+  <p align="center">
+    <a href="#-fitur-unggulan">Fitur Utama</a> •
+    <a href="#-demo-video">Demo</a> •
+    <a href="#-instalasi">Instalasi</a> •
+    <a href="#-kontak">Kontak</a>
+  </p>
+</div>
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 📽️ Demo Video
+
+Lihat ZenKeep beraksi! Transisi halus, animasi Sidebar, dan fitur Checklist Pro.
+
+<div align="center">
+  <kbd>
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  </kbd>
+  <br /><br />
+  <p><b>[ SILAKAN DROP VIDEO DEMO .MP4 ANDA DI SINI ]</b></p>
+</div>
+
+---
+
+## ✨ Fitur Unggulan
+
+* ⚡ Instant Right Sidebar
+* ✅ Checklist Mode Pro
+* 🕒 Precision Timestamp
+* 📌 Smart Pinning
+* 🎨 Google Pastel Palette
+* 📸 Dynamic Image Update
+* 🔒 Secured Authentication
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech         | Keterangan          |
+| ------------ | ------------------- |
+| React Native | Mobile Framework    |
+| TypeScript   | Strong Typing       |
+| Firebase     | Auth & Firestore    |
+| Expo         | Development Tooling |
+| Cloudinary   | Image Hosting       |
+
+---
+
+## 🚀 Instalasi
 
 ```bash
-npm run reset-project
+git clone https://github.com/username/zenkeep-app.git
+cd zenkeep-app
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📸 Screenshots
 
-To learn more about developing your project with Expo, look at the following resources:
+| Login       | Dashboard   | Editor      |
+| ----------- | ----------- | ----------- |
+| Placeholder | Placeholder | Placeholder |
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## 🤝 Kontribusi
 
-Join our community of developers creating universal apps.
+Pull Request sangat terbuka 🚀
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## 📄 Lisensi
+
+MIT License
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<p>Dibuat dengan semangat 💡</p>
+</div>
