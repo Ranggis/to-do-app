@@ -2,7 +2,7 @@
 
   <!-- Banner Animasi -->
 
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=ZenKeep%20Notes&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=14,4285F4,34a853&height=250&section=header&text=ZenKeep%20Notes&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <!-- Logo/Icon Aplikasi -->
 
