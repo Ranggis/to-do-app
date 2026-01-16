@@ -40,14 +40,15 @@
 
 ## 📽️ Demo Video
 
-Lihat Leo beraksi! Transisi halus, animasi Sidebar, dan fitur Checklist Pro.
-
 <div align="center">
+  Lihat Leo beraksi! Transisi halus, animasi Sidebar, dan fitur Checklist Pro.
+  
   <kbd>
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   </kbd>
   <br /><br />
   <p> <img src="https://github.com/Ranggis/Api-Image/blob/main/Leo-app.gif?raw=true" width="300"> </p>
+  
 </div>
   
 ---
