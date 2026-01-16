@@ -2,7 +2,9 @@
 
   <!-- Banner Animasi -->
 
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=14,4285F4,34a853&height=250&section=header&text=ZenKeep%20Notes&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=4285F4&center=true&vCenter=true&width=1000&height=150&lines=ZenKeep+Notes;Premium+Note+Management;Modern+Checklist+Features" width="100%" alt="Typing SVG" />
+  </a>
 
   <!-- Logo/Icon Aplikasi -->
 
