@@ -9,7 +9,7 @@
   <!-- Logo/Icon Aplikasi -->
 
   <br />
-  <img src="https://img.icons8.com/fluency/240/notebook.png" width="120" height="120" />
+  <img src="https://img.icons8.com/clouds/200/note.png" width="130" height="130" />
   
   <h1>Leo - Notes App</h1>
 
