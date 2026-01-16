@@ -9,7 +9,7 @@
   <!-- Logo/Icon Aplikasi -->
 
   <br />
-  <img src="https://img.icons8.com/color/144/google-keep.png" width="100" height="100" />
+  <img src="https://cdn.pixabay.com/animation/2023/03/30/23/34/23-34-31-419_512.gif" width="100" height="100" />
 
   <h1>Leo - Notes App</h1>
 
