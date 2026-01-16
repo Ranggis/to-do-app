@@ -44,7 +44,7 @@ Lihat Leo beraksi! Transisi halus, animasi Sidebar, dan fitur Checklist Pro.
 
 <div align="center">
   <kbd>
-    <img src="https://github.com/Ranggis/Api-Image/blob/main/Leo-app.gif?raw=true" width="300">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   </kbd>
   <br /><br />
   <p><b>[ SILAKAN DROP VIDEO DEMO .MP4 ANDA DI SINI ]</b></p>
