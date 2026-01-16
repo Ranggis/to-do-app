@@ -50,6 +50,23 @@ Lihat Leo beraksi! Transisi halus, animasi Sidebar, dan fitur Checklist Pro.
   <p><b>[ SILAKAN DROP VIDEO DEMO .MP4 ANDA DI SINI ]</b></p>
 </div>
 
+
+  <!-- Rainbow Header -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+  <!-- Video Demo (MP4 atau GIF) -->
+  <br/>
+  <kbd>
+    <!-- Ganti link berikut dengan .mp4 atau .gif milik kamu -->
+    <img src="https://github.com/Ranggis/Api-Image/blob/main/Leo-app.gif?raw=true" width="300">
+  </kbd>
+
+  <br/><br/>
+  <p><i>Preview realtime dari ZenKeep Notes App.</i></p>
+
+  <!-- Rainbow Footer -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  
 ---
 
 ## ✨ Fitur Unggulan
